@@ -10,7 +10,7 @@ Pros:
 Cons:
 - More overhead than ```popen``` and ```system```
 
-For the full explanation, read this [post](https://www.danielshare.co.uk/how-to-send-multiple-commands-and-receive-output-from-the-same-bash-process).
+For the full explanation, read this [post](https://www.danielshare.co.uk/how-to-send-multiple-commands-to-and-receive-output-from-the-same-bash-process).
 
 ## How to build
 
